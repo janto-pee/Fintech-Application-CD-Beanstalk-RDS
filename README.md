@@ -1,4 +1,4 @@
-## Iludate &mdash; Agentur
+## Continuous Integration With Jenkins, Nexus, Sonarqube and Slack
 
 ## Getting Started
 
